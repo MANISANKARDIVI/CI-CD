@@ -1,4 +1,4 @@
-![project](https://github.com/MANISANKARDIVI/Board-Game/assets/110891364/5f13d5de-afb3-4f14-b953-c8ed54d63e2e)
+![project](https://github.com/MANISANKARDIVI/ultimate_CI-CD/blob/main/ultimate-CI-CD.jpeg)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
