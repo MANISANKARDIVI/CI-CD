@@ -142,7 +142,7 @@ pipeline {
     stages {
         stage('Git Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/MANISANKARDIVI/Board-Game.git'
+                git branch: 'main', url: 'https://github.com/MANISANKARDIVI/ultimate_CI-CD.git'
             }
         }
         stage('compile') {
